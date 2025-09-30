@@ -32,8 +32,7 @@ Matias Martinez and  Xavier Franch.
 - [Model Index](appendix_table_models.md)  
   Inventory of LLMs referenced across submissions.
 
-- [Combination LLMs in Lite](appendix_table_LLMtopCombinationsLite.txt)
-- [Combination LLMs in Verified](appendix_table_LLMtopCombinationsVerified.txt)
+- [Combination LLMs in Lite](appendix_table_LLMtopCombinationsLite.txt) and [Combination LLMs in Verified](appendix_table_LLMtopCombinationsVerified.txt) Combination of LLMs sorted by precision.
   
 
 
