@@ -2,7 +2,7 @@
 
 This is the appendix of the work:
 
-Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems.
+What’s in a Benchmark? The Case of SWE-Bench in Automated Program Repair.
 Matias Martinez and  Xavier Franch.
 
 
